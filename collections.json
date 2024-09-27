@@ -1,0 +1,2020 @@
+{
+    "frontendDevelopers": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "experience": "3 years",
+        "skills": [
+          { "skill": "HTML", "proficiency": "Expert" },
+          { "skill": "CSS", "proficiency": "Expert" },
+          { "skill": "JavaScript", "proficiency": "Advanced" },
+          { "skill": "React", "proficiency": "Advanced" }
+        ],
+        "projects": [
+          {
+            "projectId": 101,
+            "title": "E-commerce Website",
+            "description": "An online platform for buying and selling products.",
+            "technologies": ["React", "Node.js", "MongoDB"],
+            "links": [
+              { "type": "GitHub", "url": "https://github.com/alice/ecommerce" },
+              { "type": "Live Demo", "url": "https://ecommerce-demo.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Bob Smith",
+        "experience": "5 years",
+        "skills": [
+          { "skill": "HTML", "proficiency": "Expert" },
+          { "skill": "CSS", "proficiency": "Advanced" },
+          { "skill": "JavaScript", "proficiency": "Expert" },
+          { "skill": "Angular", "proficiency": "Advanced" }
+        ],
+        "projects": [
+          {
+            "projectId": 201,
+            "title": "Blog Platform",
+            "description": "A platform for users to create and share blogs.",
+            "technologies": ["Angular", "Node.js", "Firebase"],
+            "links": [
+              { "type": "GitHub", "url": "https://github.com/bob/blog-platform" },
+              { "type": "Live Demo", "url": "https://blog-platform.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Charlie Brown",
+        "experience": "2 years",
+        "skills": [
+          { "skill": "HTML", "proficiency": "Intermediate" },
+          { "skill": "CSS", "proficiency": "Intermediate" },
+          { "skill": "JavaScript", "proficiency": "Intermediate" },
+          { "skill": "Vue.js", "proficiency": "Beginner" }
+        ],
+        "projects": [
+          {
+            "projectId": 301,
+            "title": "Personal Portfolio",
+            "description": "A personal website showcasing my work and skills.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "links": [
+              { "type": "GitHub", "url": "https://github.com/charlie/portfolio" },
+              { "type": "Live Demo", "url": "https://charlie-portfolio.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Diana Prince",
+        "experience": "4 years",
+        "skills": [
+          { "skill": "HTML", "proficiency": "Expert" },
+          { "skill": "CSS", "proficiency": "Expert" },
+          { "skill": "JavaScript", "proficiency": "Advanced" },
+          { "skill": "Sass", "proficiency": "Advanced" }
+        ],
+        "projects": [
+          {
+            "projectId": 401,
+            "title": "Travel Blog",
+            "description": "A blog sharing travel experiences and tips.",
+            "technologies": ["React", "Node.js"],
+            "links": [
+              { "type": "GitHub", "url": "https://github.com/diana/travel-blog" },
+              { "type": "Live Demo", "url": "https://travel-blog.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Ethan Hunt",
+        "experience": "6 years",
+        "skills": [
+          { "skill": "HTML", "proficiency": "Expert" },
+          { "skill": "CSS", "proficiency": "Advanced" },
+          { "skill": "JavaScript", "proficiency": "Expert" },
+          { "skill": "React", "proficiency": "Expert" },
+          { "skill": "Redux", "proficiency": "Advanced" }
+        ],
+        "projects": [
+          {
+            "projectId": 501,
+            "title": "Task Management App",
+            "description": "A web application for managing tasks.",
+            "technologies": ["React", "Redux", "Firebase"],
+            "links": [
+              { "type": "GitHub", "url": "https://github.com/ethan/task-manager" },
+              { "type": "Live Demo", "url": "https://task-manager.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Fiona Gallagher",
+        "experience": "3 years",
+        "skills": [
+          { "skill": "HTML", "proficiency": "Expert" },
+          { "skill": "CSS", "proficiency": "Advanced" },
+          { "skill": "JavaScript", "proficiency": "Intermediate" },
+          { "skill": "Angular", "proficiency": "Intermediate" }
+        ],
+        "projects": [
+          {
+            "projectId": 601,
+            "title": "Recipe Finder",
+            "description": "A web app for discovering new recipes.",
+            "technologies": ["Angular", "Node.js"],
+            "links": [
+              { "type": "GitHub", "url": "https://github.com/fiona/recipe-finder" },
+              { "type": "Live Demo", "url": "https://recipe-finder.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "George Lucas",
+        "experience": "7 years",
+        "skills": [
+          { "skill": "HTML", "proficiency": "Expert" },
+          { "skill": "CSS", "proficiency": "Expert" },
+          { "skill": "JavaScript", "proficiency": "Expert" },
+          { "skill": "Vue.js", "proficiency": "Advanced" }
+        ],
+        "projects": [
+          {
+            "projectId": 701,
+            "title": "Online Store",
+            "description": "An online store for digital products.",
+            "technologies": ["Vue.js", "Node.js", "MongoDB"],
+            "links": [
+              { "type": "GitHub", "url": "https://github.com/george/online-store" },
+              { "type": "Live Demo", "url": "https://online-store.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Hannah Montana",
+        "experience": "5 years",
+        "skills": [
+          { "skill": "HTML", "proficiency": "Expert" },
+          { "skill": "CSS", "proficiency": "Expert" },
+          { "skill": "JavaScript", "proficiency": "Advanced" },
+          { "skill": "Bootstrap", "proficiency": "Expert" }
+        ],
+        "projects": [
+          {
+            "projectId": 801,
+            "title": "Event Management App",
+            "description": "An app for organizing and managing events.",
+            "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+            "links": [
+              { "type": "GitHub", "url": "https://github.com/hannah/event-manager" },
+              { "type": "Live Demo", "url": "https://event-manager.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Ian Malcolm",
+        "experience": "4 years",
+        "skills": [
+          { "skill": "HTML", "proficiency": "Expert" },
+          { "skill": "CSS", "proficiency": "Intermediate" },
+          { "skill": "JavaScript", "proficiency": "Advanced" },
+          { "skill": "jQuery", "proficiency": "Intermediate" }
+        ],
+        "projects": [
+          {
+            "projectId": 901,
+            "title": "Interactive Quiz",
+            "description": "A quiz application with interactive questions.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "links": [
+              { "type": "GitHub", "url": "https://github.com/ian/interactive-quiz" },
+              { "type": "Live Demo", "url": "https://interactive-quiz.com" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Julia Roberts",
+        "experience": "6 years",
+        "skills": [
+          { "skill": "HTML", "proficiency": "Expert" },
+          { "skill": "CSS", "proficiency": "Expert" },
+          { "skill": "JavaScript", "proficiency": "Advanced" },
+          { "skill": "React", "proficiency": "Expert" },
+          { "skill": "Next.js", "proficiency": "Advanced" }
+        ],
+        "projects": [
+          {
+            "projectId": 1001,
+            "title": "Social Media Dashboard",
+            "description": "A dashboard for managing social media accounts.",
+            "technologies": ["React", "Next.js", "Firebase"],
+            "links": [
+              { "type": "GitHub", "url": "https://github.com/julia/social-media-dashboard" },
+              { "type": "Live Demo", "url": "https://social-media-dashboard.com" }
+            ]
+          }
+        ]
+      }
+    ]
+    ,
+    "userProfiles":[
+        {"users": [
+          {
+            "userId": 1,
+            "name": "Alice Johnson",
+            "email": "alice.johnson@example.com",
+            "age": 28,
+            "address": {
+              "street": "123 Maple Street",
+              "city": "Springfield",
+              "state": "IL",
+              "zipCode": "62701"
+            },
+            "phoneNumbers": [
+              { "type": "mobile", "number": "+1-555-1234" },
+              { "type": "home", "number": "+1-555-5678" }
+            ],
+            "profilePicture": "https://example.com/images/alice.jpg",
+            "preferences": {
+              "theme": "dark",
+              "language": "en",
+              "notifications": { "email": true, "sms": false, "push": true }
+            },
+            "socialMedia": {
+              "facebook": "https://facebook.com/alicejohnson",
+              "twitter": "https://twitter.com/alice_johnson",
+              "linkedin": "https://linkedin.com/in/alicejohnson"
+            },
+            "activity": [
+              { "action": "logged in", "timestamp": "2024-09-15T08:30:00Z" },
+              { "action": "updated profile", "timestamp": "2024-09-16T09:45:00Z" }
+            ],
+            "friends": [
+              { "userId": 2, "name": "Bob Smith" },
+              { "userId": 3, "name": "Charlie Davis" }
+            ]
+          },
+          {
+            "userId": 2,
+            "name": "Bob Smith",
+            "email": "bob.smith@example.com",
+            "age": 35,
+            "address": {
+              "street": "456 Oak Avenue",
+              "city": "Shelbyville",
+              "state": "IL",
+              "zipCode": "62565"
+            },
+            "phoneNumbers": [
+              { "type": "mobile", "number": "+1-555-8765" },
+              { "type": "work", "number": "+1-555-4321" }
+            ],
+            "profilePicture": "https://example.com/images/bob.jpg",
+            "preferences": {
+              "theme": "light",
+              "language": "en",
+              "notifications": { "email": true, "sms": true, "push": false }
+            },
+            "socialMedia": {
+              "facebook": "https://facebook.com/bobsmith",
+              "twitter": "https://twitter.com/bob_smith",
+              "linkedin": "https://linkedin.com/in/bobsmith"
+            },
+            "activity": [
+              { "action": "logged in", "timestamp": "2024-09-14T10:00:00Z" },
+              { "action": "added a friend", "timestamp": "2024-09-16T11:20:00Z" }
+            ],
+            "friends": [
+              { "userId": 1, "name": "Alice Johnson" },
+              { "userId": 4, "name": "Diana Prince" }
+            ]
+          },
+          {
+            "userId": 3,
+            "name": "Charlie Davis",
+            "email": "charlie.davis@example.com",
+            "age": 29,
+            "address": {
+              "street": "789 Pine Road",
+              "city": "Capital City",
+              "state": "IL",
+              "zipCode": "62629"
+            },
+            "phoneNumbers": [
+              { "type": "mobile", "number": "+1-555-2468" }
+            ],
+            "profilePicture": "https://example.com/images/charlie.jpg",
+            "preferences": {
+              "theme": "dark",
+              "language": "en",
+              "notifications": { "email": false, "sms": true, "push": true }
+            },
+            "socialMedia": {
+              "facebook": "https://facebook.com/charliedavis",
+              "twitter": "https://twitter.com/charlie_davis",
+              "linkedin": "https://linkedin.com/in/charliedavis"
+            },
+            "activity": [
+              { "action": "logged in", "timestamp": "2024-09-15T07:15:00Z" },
+              { "action": "changed password", "timestamp": "2024-09-17T12:30:00Z" }
+            ],
+            "friends": [
+              { "userId": 1, "name": "Alice Johnson" },
+              { "userId": 4, "name": "Diana Prince" }
+            ]
+          },
+          {
+            "userId": 4,
+            "name": "Diana Prince",
+            "email": "diana.prince@example.com",
+            "age": 32,
+            "address": {
+              "street": "321 Elm Street",
+              "city": "Metropolis",
+              "state": "NY",
+              "zipCode": "10001"
+            },
+            "phoneNumbers": [
+              { "type": "mobile", "number": "+1-555-1357" },
+              { "type": "home", "number": "+1-555-2468" }
+            ],
+            "profilePicture": "https://example.com/images/diana.jpg",
+            "preferences": {
+              "theme": "light",
+              "language": "es",
+              "notifications": { "email": true, "sms": true, "push": true }
+            },
+            "socialMedia": {
+              "facebook": "https://facebook.com/dianaprince",
+              "twitter": "https://twitter.com/diana_prince",
+              "linkedin": "https://linkedin.com/in/dianaprince"
+            },
+            "activity": [
+              { "action": "logged in", "timestamp": "2024-09-15T10:00:00Z" },
+              { "action": "logged out", "timestamp": "2024-09-15T11:00:00Z" }
+            ],
+            "friends": [
+              { "userId": 1, "name": "Alice Johnson" },
+              { "userId": 2, "name": "Bob Smith" }
+            ]
+          },
+          {
+            "userId": 5,
+            "name": "Eve Adams",
+            "email": "eve.adams@example.com",
+            "age": 27,
+            "address": {
+              "street": "654 Birch Lane",
+              "city": "Star City",
+              "state": "CA",
+              "zipCode": "90001"
+            },
+            "phoneNumbers": [
+              { "type": "mobile", "number": "+1-555-7890" }
+            ],
+            "profilePicture": "https://example.com/images/eve.jpg",
+            "preferences": {
+              "theme": "dark",
+              "language": "fr",
+              "notifications": { "email": true, "sms": false, "push": true }
+            },
+            "socialMedia": {
+              "facebook": "https://facebook.com/eveadams",
+              "twitter": "https://twitter.com/eve_adams",
+              "linkedin": "https://linkedin.com/in/eveadams"
+            },
+            "activity": [
+              { "action": "logged in", "timestamp": "2024-09-16T09:00:00Z" },
+              { "action": "updated profile picture", "timestamp": "2024-09-17T10:30:00Z" }
+            ],
+            "friends": [
+              { "userId": 1, "name": "Alice Johnson" },
+              { "userId": 3, "name": "Charlie Davis" }
+            ]
+          }
+        ],
+        "activityTypes": [
+          {
+            "typeId": 1,
+            "action": "logged in",
+            "description": "User logged into the application."
+          },
+          {
+            "typeId": 2,
+            "action": "logged out",
+            "description": "User logged out of the application."
+          },
+          {
+            "typeId": 3,
+            "action": "updated profile",
+            "description": "User updated their profile information."
+          },
+          {
+            "typeId": 4,
+            "action": "added a friend",
+            "description": "User added a new friend."
+          },
+          {
+            "typeId": 5,
+            "action": "changed password",
+            "description": "User changed their password."
+          },
+          {
+            "typeId": 6,
+            "action": "updated profile picture",
+            "description": "User updated their profile picture."
+          }
+        ]
+        }
+    ],
+    
+    "developers_data": {
+          "developers": [
+            {
+              "id": 1,
+              "name": "Alice Johnson",
+              "experience": "3 years",
+              "skills": [
+                { "skill": "HTML", "proficiency": "Expert" },
+                { "skill": "CSS", "proficiency": "Expert" },
+                { "skill": "JavaScript", "proficiency": "Advanced" },
+                { "skill": "React", "proficiency": "Advanced" }
+              ],
+              "projects": [
+                {
+                  "projectId": 101,
+                  "title": "E-commerce Website",
+                  "description": "An online platform for buying and selling products.",
+                  "technologies": ["React", "Node.js", "MongoDB"],
+                  "links": [
+                    { "type": "GitHub", "url": "https://github.com/alice/ecommerce" },
+                    { "type": "Live Demo", "url": "https://ecommerce-demo.com" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Bob Smith",
+              "experience": "5 years",
+              "skills": [
+                { "skill": "HTML", "proficiency": "Expert" },
+                { "skill": "CSS", "proficiency": "Advanced" },
+                { "skill": "JavaScript", "proficiency": "Expert" },
+                { "skill": "Angular", "proficiency": "Advanced" }
+              ],
+              "projects": [
+                {
+                  "projectId": 201,
+                  "title": "Blog Platform",
+                  "description": "A platform for users to create and share blogs.",
+                  "technologies": ["Angular", "Node.js", "Firebase"],
+                  "links": [
+                    { "type": "GitHub", "url": "https://github.com/bob/blog-platform" },
+                    { "type": "Live Demo", "url": "https://blog-platform.com" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": "Charlie Brown",
+              "experience": "2 years",
+              "skills": [
+                { "skill": "HTML", "proficiency": "Intermediate" },
+                { "skill": "CSS", "proficiency": "Intermediate" },
+                { "skill": "JavaScript", "proficiency": "Intermediate" },
+                { "skill": "Vue.js", "proficiency": "Beginner" }
+              ],
+              "projects": [
+                {
+                  "projectId": 301,
+                  "title": "Personal Portfolio",
+                  "description": "A personal website showcasing my work and skills.",
+                  "technologies": ["HTML", "CSS", "JavaScript"],
+                  "links": [
+                    { "type": "GitHub", "url": "https://github.com/charlie/portfolio" },
+                    { "type": "Live Demo", "url": "https://charlie-portfolio.com" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "name": "Diana Prince",
+              "experience": "4 years",
+              "skills": [
+                { "skill": "HTML", "proficiency": "Expert" },
+                { "skill": "CSS", "proficiency": "Expert" },
+                { "skill": "JavaScript", "proficiency": "Advanced" },
+                { "skill": "Sass", "proficiency": "Advanced" }
+              ],
+              "projects": [
+                {
+                  "projectId": 401,
+                  "title": "Travel Blog",
+                  "description": "A blog sharing travel experiences and tips.",
+                  "technologies": ["React", "Node.js"],
+                  "links": [
+                    { "type": "GitHub", "url": "https://github.com/diana/travel-blog" },
+                    { "type": "Live Demo", "url": "https://travel-blog.com" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "name": "Ethan Hunt",
+              "experience": "6 years",
+              "skills": [
+                { "skill": "HTML", "proficiency": "Expert" },
+                { "skill": "CSS", "proficiency": "Advanced" },
+                { "skill": "JavaScript", "proficiency": "Expert" },
+                { "skill": "React", "proficiency": "Expert" },
+                { "skill": "Redux", "proficiency": "Advanced" }
+              ],
+              "projects": [
+                {
+                  "projectId": 501,
+                  "title": "Task Management App",
+                  "description": "A web application for managing tasks.",
+                  "technologies": ["React", "Redux", "Firebase"],
+                  "links": [
+                    { "type": "GitHub", "url": "https://github.com/ethan/task-manager" },
+                    { "type": "Live Demo", "url": "https://task-manager.com" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "Fiona Gallagher",
+              "experience": "3 years",
+              "skills": [
+                { "skill": "HTML", "proficiency": "Expert" },
+                { "skill": "CSS", "proficiency": "Advanced" },
+                { "skill": "JavaScript", "proficiency": "Intermediate" },
+                { "skill": "Angular", "proficiency": "Intermediate" }
+              ],
+              "projects": [
+                {
+                  "projectId": 601,
+                  "title": "Recipe Finder",
+                  "description": "A web app for discovering new recipes.",
+                  "technologies": ["Angular", "Node.js"],
+                  "links": [
+                    { "type": "GitHub", "url": "https://github.com/fiona/recipe-finder" },
+                    { "type": "Live Demo", "url": "https://recipe-finder.com" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "name": "George Lucas",
+              "experience": "7 years",
+              "skills": [
+                { "skill": "HTML", "proficiency": "Expert" },
+                { "skill": "CSS", "proficiency": "Expert" },
+                { "skill": "JavaScript", "proficiency": "Expert" },
+                { "skill": "Vue.js", "proficiency": "Advanced" }
+              ],
+              "projects": [
+                {
+                  "projectId": 701,
+                  "title": "Online Store",
+                  "description": "An online store for digital products.",
+                  "technologies": ["Vue.js", "Node.js", "MongoDB"],
+                  "links": [
+                    { "type": "GitHub", "url": "https://github.com/george/online-store" },
+                    { "type": "Live Demo", "url": "https://online-store.com" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "name": "Hannah Montana",
+              "experience": "5 years",
+              "skills": [
+                { "skill": "HTML", "proficiency": "Expert" },
+                { "skill": "CSS", "proficiency": "Expert" },
+                { "skill": "JavaScript", "proficiency": "Advanced" },
+                { "skill": "Bootstrap", "proficiency": "Expert" }
+              ],
+              "projects": [
+                {
+                  "projectId": 801,
+                  "title": "Event Management App",
+                  "description": "An app for organizing and managing events.",
+                  "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+                  "links": [
+                    { "type": "GitHub", "url": "https://github.com/hannah/event-manager" },
+                    { "type": "Live Demo", "url": "https://event-manager.com" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "name": "Ian Malcolm",
+              "experience": "4 years",
+              "skills": [
+                { "skill": "HTML", "proficiency": "Expert" },
+                { "skill": "CSS", "proficiency": "Intermediate" },
+                { "skill": "JavaScript", "proficiency": "Advanced" },
+                { "skill": "jQuery", "proficiency": "Intermediate" }
+              ],
+              "projects": [
+                {
+                  "projectId": 901,
+                  "title": "Interactive Quiz",
+                  "description": "A quiz application with interactive questions.",
+                  "technologies": ["HTML", "CSS", "JavaScript"],
+                  "links": [
+                    { "type": "GitHub", "url": "https://github.com/ian/interactive-quiz" },
+                    { "type": "Live Demo", "url": "https://interactive-quiz.com" }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "name": "Julia Roberts",
+              "experience": "6 years",
+              "skills": [
+                { "skill": "HTML", "proficiency": "Expert" },
+                { "skill": "CSS", "proficiency": "Expert" },
+                { "skill": "JavaScript", "proficiency": "Advanced" },
+                { "skill": "React", "proficiency": "Expert" },
+                { "skill": "Next.js", "proficiency": "Advanced" }
+              ],
+              "projects": [
+                {
+                  "projectId": 1001,
+                  "title": "Social Media Dashboard",
+                  "description": "A dashboard for managing social media accounts.",
+                  "technologies": ["React", "Next.js", "Firebase"],
+                  "links": [
+                    { "type": "GitHub", "url": "https://github.com/julia/social-media-dashboard" },
+                    { "type": "Live Demo", "url": "https://social-media-dashboard.com" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+
+    "productsInventory": [
+          {
+            "products": [
+              {
+                "productId": 1,
+                "name": "Wireless Headphones",
+                "description": "High-quality over-ear headphones with noise cancellation.",
+                "price": 150.99,
+                "stock": 30,
+                "categories": ["Electronics", "Audio"],
+                "specifications": {
+                  "brand": "SoundMax",
+                  "model": "SM-X100",
+                  "color": "Black",
+                  "batteryLife": "20 hours",
+                  "connectivity": "Bluetooth 5.0"
+                },
+                "reviews": [
+                  {
+                    "userId": 101,
+                    "rating": 5,
+                    "comment": "Amazing sound quality and comfort!",
+                    "date": "2024-08-15"
+                  },
+                  {
+                    "userId": 102,
+                    "rating": 4,
+                    "comment": "Great headphones but a bit pricey.",
+                    "date": "2024-08-20"
+                  }
+                ],
+                "images": [
+                  {
+                    "url": "https://example.com/images/headphones1.jpg",
+                    "alt": "Wireless Headphones"
+                  },
+                  {
+                    "url": "https://example.com/images/headphones2.jpg",
+                    "alt": "Wireless Headphones Side View"
+                  }
+                ],
+                "seller": {
+                  "sellerId": 201,
+                  "name": "Tech Store",
+                  "rating": 4.8,
+                  "contact": "techstore@example.com"
+                }
+              },
+              {
+                "productId": 2,
+                "name": "Smartphone",
+                "description": "Latest model smartphone with high-resolution camera.",
+                "price": 799.99,
+                "stock": 50,
+                "categories": ["Electronics", "Mobile"],
+                "specifications": {
+                  "brand": "TechCorp",
+                  "model": "TC-Phoenix",
+                  "storage": "128GB",
+                  "color": "Silver",
+                  "camera": "48MP"
+                },
+                "reviews": [
+                  {
+                    "userId": 103,
+                    "rating": 5,
+                    "comment": "Best phone I've ever owned!",
+                    "date": "2024-08-22"
+                  },
+                  {
+                    "userId": 104,
+                    "rating": 3,
+                    "comment": "Decent phone, but battery life could be better.",
+                    "date": "2024-08-25"
+                  }
+                ],
+                "images": [
+                  {
+                    "url": "https://example.com/images/smartphone1.jpg",
+                    "alt": "Smartphone Front"
+                  },
+                  {
+                    "url": "https://example.com/images/smartphone2.jpg",
+                    "alt": "Smartphone Back"
+                  }
+                ],
+                "seller": {
+                  "sellerId": 202,
+                  "name": "Gadget World",
+                  "rating": 4.5,
+                  "contact": "gadgetworld@example.com"
+                }
+              },
+              {
+                "productId": 3,
+                "name": "Laptop",
+                "description": "Lightweight laptop with powerful performance for gaming.",
+                "price": 1299.99,
+                "stock": 20,
+                "categories": ["Electronics", "Computers"],
+                "specifications": {
+                  "brand": "GamingPro",
+                  "model": "GP-X200",
+                  "processor": "Intel i7",
+                  "ram": "16GB",
+                  "storage": "512GB SSD"
+                },
+                "reviews": [
+                  {
+                    "userId": 105,
+                    "rating": 5,
+                    "comment": "Incredible performance for gaming!",
+                    "date": "2024-08-30"
+                  },
+                  {
+                    "userId": 106,
+                    "rating": 4,
+                    "comment": "Great laptop, but heavy to carry around.",
+                    "date": "2024-09-01"
+                  }
+                ],
+                "images": [
+                  {
+                    "url": "https://example.com/images/laptop1.jpg",
+                    "alt": "Gaming Laptop"
+                  },
+                  {
+                    "url": "https://example.com/images/laptop2.jpg",
+                    "alt": "Laptop Keyboard"
+                  }
+                ],
+                "seller": {
+                  "sellerId": 203,
+                  "name": "Techies",
+                  "rating": 4.7,
+                  "contact": "techies@example.com"
+                }
+              },
+              {
+                "productId": 4,
+                "name": "Gaming Mouse",
+                "description": "Ergonomic gaming mouse with customizable buttons.",
+                "price": 49.99,
+                "stock": 100,
+                "categories": ["Electronics", "Accessories"],
+                "specifications": {
+                  "brand": "GamerX",
+                  "model": "GAM-X1",
+                  "dpi": "16000",
+                  "color": "RGB"
+                },
+                "reviews": [
+                  {
+                    "userId": 107,
+                    "rating": 4,
+                    "comment": "Good mouse, very responsive.",
+                    "date": "2024-09-05"
+                  },
+                  {
+                    "userId": 108,
+                    "rating": 3,
+                    "comment": "Nice features but not very comfortable for long use.",
+                    "date": "2024-09-10"
+                  }
+                ],
+                "images": [
+                  {
+                    "url": "https://example.com/images/mouse1.jpg",
+                    "alt": "Gaming Mouse"
+                  },
+                  {
+                    "url": "https://example.com/images/mouse2.jpg",
+                    "alt": "Gaming Mouse RGB"
+                  }
+                ],
+                "seller": {
+                  "sellerId": 204,
+                  "name": "Accessory Haven",
+                  "rating": 4.6,
+                  "contact": "accessoryhaven@example.com"
+                }
+              },
+              {
+                "productId": 5,
+                "name": "4K Monitor",
+                "description": "Ultra HD monitor with vibrant colors and fast refresh rate.",
+                "price": 499.99,
+                "stock": 15,
+                "categories": ["Electronics", "Monitors"],
+                "specifications": {
+                  "brand": "VisionTech",
+                  "model": "VT-4KPRO",
+                  "size": "27 inches",
+                  "resolution": "3840 x 2160"
+                },
+                "reviews": [
+                  {
+                    "userId": 109,
+                    "rating": 5,
+                    "comment": "Fantastic picture quality!",
+                    "date": "2024-09-15"
+                  },
+                  {
+                    "userId": 110,
+                    "rating": 4,
+                    "comment": "Great for gaming but a bit expensive.",
+                    "date": "2024-09-20"
+                  }
+                ],
+                "images": [
+                  {
+                    "url": "https://example.com/images/monitor1.jpg",
+                    "alt": "4K Monitor"
+                  },
+                  {
+                    "url": "https://example.com/images/monitor2.jpg",
+                    "alt": "Monitor Display"
+                  }
+                ],
+                "seller": {
+                  "sellerId": 205,
+                  "name": "Display Solutions",
+                  "rating": 4.9,
+                  "contact": "displaysolutions@example.com"
+                }
+              }
+            ],
+            "categories": [
+              {
+                "categoryId": 1,
+                "name": "Electronics",
+                "subcategories": [
+                  {
+                    "subcategoryId": 11,
+                    "name": "Audio",
+                    "productIds": [1]
+                  },
+                  {
+                    "subcategoryId": 12,
+                    "name": "Mobile",
+                    "productIds": [2]
+                  },
+                  {
+                    "subcategoryId": 13,
+                    "name": "Computers",
+                    "productIds": [3]
+                  },
+                  {
+                    "subcategoryId": 14,
+                    "name": "Accessories",
+                    "productIds": [4]
+                  },
+                  {
+                    "subcategoryId": 15,
+                    "name": "Monitors",
+                    "productIds": [5]
+                  }
+                ]
+              },
+              {
+                "categoryId": 2,
+                "name": "Home Appliances",
+                "subcategories": [
+                  {
+                    "subcategoryId": 21,
+                    "name": "Kitchen",
+                    "productIds": []
+                  },
+                  {
+                    "subcategoryId": 22,
+                    "name": "Cleaning",
+                    "productIds": []
+                  }
+                ]
+              }
+            ],
+            "sellers": [
+              {
+                "sellerId": 201,
+                "name": "Tech Store",
+                "contact": "techstore@example.com",
+                "rating": 4.8,
+                "products": [1]
+              },
+              {
+                "sellerId": 202,
+                "name": "Gadget World",
+                "contact": "gadgetworld@example.com",
+                "rating": 4.5,
+                "products": [2]
+              },
+              {
+                "sellerId": 203,
+                "name": "Techies",
+                "contact": "techies@example.com",
+                "rating": 4.7,
+                "products": [3]
+              },
+              {
+                "sellerId": 204,
+                "name": "Accessory Haven",
+                "contact": "accessoryhaven@example.com",
+                "rating": 4.6,
+                "products": [4]
+              },
+              {
+                "sellerId": 205,
+                "name": "Display Solutions",
+                "contact": "displaysolutions@example.com",
+                "rating": 4.9,
+                "products": [5]
+              }
+            ]
+          }
+        ],
+
+    "advanced_online_platform":[
+          {
+             "courses": [
+          {
+            "courseId": 1,
+            "title": "Full Stack Development Bootcamp",
+            "description": "Learn to build web applications from scratch using MERN stack.",
+            "instructor": {
+              "userId": 101,
+              "name": "Alice Johnson",
+              "avatar": "https://example.com/avatars/alice.jpg",
+              "bio": "Full Stack Developer with a passion for teaching."
+            },
+            "lessons": [
+              {
+                "lessonId": 201,
+                "title": "Introduction to MERN Stack",
+                "duration": "30 minutes",
+                "content": "Overview of MongoDB, Express.js, React, and Node.js.",
+                "resources": [
+                  { "type": "Video", "url": "https://example.com/videos/mern-intro.mp4" },
+                  { "type": "PDF", "url": "https://example.com/resources/mern-intro.pdf" }
+                ],
+                "quizzes": [
+                  {
+                    "quizId": 401,
+                    "questions": [
+                      {
+                        "questionId": 1,
+                        "question": "What does MERN stand for?",
+                        "options": ["MongoDB, Express, React, Node", "MySQL, Express, Ruby, Node"],
+                        "answer": "MongoDB, Express, React, Node"
+                      }
+                    ]
+                  }
+                ],
+                "assignments": [
+                  {
+                    "assignmentId": 501,
+                    "title": "Create a Simple MERN App",
+                    "description": "Build a basic MERN application with user authentication.",
+                    "submissionDate": "2024-10-01",
+                    "feedback": []
+                  }
+                ]
+              },
+              {
+                "lessonId": 202,
+                "title": "Building RESTful APIs with Node.js",
+                "duration": "45 minutes",
+                "content": "Learn how to create RESTful APIs using Node.js and Express.",
+                "resources": [
+                  { "type": "Video", "url": "https://example.com/videos/restful-apis.mp4" },
+                  { "type": "PDF", "url": "https://example.com/resources/restful-apis.pdf" }
+                ],
+                "quizzes": [],
+                "assignments": []
+              }
+            ],
+            "ratings": [
+              { "userId": 201, "score": 5, "comment": "Highly informative and practical!" },
+              { "userId": 202, "score": 4, "comment": "Great content, but could use more examples." }
+            ],
+            "enrollments": [
+              { "userId": 201, "progress": 80, "completedLessons": [201, 202] },
+              { "userId": 202, "progress": 50, "completedLessons": [201] }
+            ]
+          },
+          {
+            "courseId": 2,
+            "title": "Advanced JavaScript Concepts",
+            "description": "Dive deep into JavaScript and explore advanced topics.",
+            "instructor": {
+              "userId": 102,
+              "name": "Bob Williams",
+              "avatar": "https://example.com/avatars/bob.jpg",
+              "bio": "JavaScript expert with years of experience in software development."
+            },
+            "lessons": [
+              {
+                "lessonId": 301,
+                "title": "Understanding Closures and Scopes",
+                "duration": "40 minutes",
+                "content": "Explore closures, scopes, and the execution context in JavaScript.",
+                "resources": [
+                  { "type": "Video", "url": "https://example.com/videos/closures.mp4" },
+                  { "type": "PDF", "url": "https://example.com/resources/closures.pdf" }
+                ],
+                "quizzes": [],
+                "assignments": [
+                  {
+                    "assignmentId": 502,
+                    "title": "Closure Challenges",
+                    "description": "Complete a series of challenges to demonstrate your understanding of closures.",
+                    "submissionDate": "2024-10-05",
+                    "feedback": []
+                  }
+                ]
+              },
+              {
+                "lessonId": 302,
+                "title": "Asynchronous JavaScript: Promises and Async/Await",
+                "duration": "35 minutes",
+                "content": "Master asynchronous programming in JavaScript.",
+                "resources": [
+                  { "type": "Video", "url": "https://example.com/videos/async-await.mp4" },
+                  { "type": "PDF", "url": "https://example.com/resources/async-await.pdf" }
+                ],
+                "quizzes": [],
+                "assignments": []
+              }
+            ],
+            "ratings": [
+              { "userId": 201, "score": 5, "comment": "Incredible depth of knowledge!" },
+              { "userId": 203, "score": 4, "comment": "The content is excellent, but the pacing is a bit fast." }
+            ],
+            "enrollments": [
+              { "userId": 201, "progress": 60, "completedLessons": [301] },
+              { "userId": 203, "progress": 20, "completedLessons": [] }
+            ]
+          }
+        ],
+        "users": [
+          {
+            "userId": 201,
+            "username": "Charlie Brown",
+            "avatar": "https://example.com/avatars/charlie.jpg",
+            "bio": "Web developer with a knack for problem-solving.",
+            "enrolledCourses": [1, 2],
+            "completedCourses": [],
+            "activity": [
+              { "courseId": 1, "action": "submitted assignment", "timestamp": "2024-09-30" },
+              { "courseId": 2, "action": "rated course", "timestamp": "2024-09-29" }
+            ],
+            "skills": [
+              { "skill": "JavaScript", "level": "Intermediate" },
+              { "skill": "Node.js", "level": "Beginner" }
+            ]
+          },
+          {
+            "userId": 202,
+            "username": "Diana Prince",
+            "avatar": "https://example.com/avatars/diana.jpg",
+            "bio": "Front-end developer eager to learn back-end technologies.",
+            "enrolledCourses": [1],
+            "completedCourses": [],
+            "activity": [],
+            "skills": [
+              { "skill": "HTML", "level": "Expert" },
+              { "skill": "CSS", "level": "Advanced" }
+            ]
+          },
+          {
+            "userId": 203,
+            "username": "Eve Adams",
+            "avatar": "https://example.com/avatars/eve.jpg",
+            "bio": "Full-stack developer with a focus on JavaScript.",
+            "enrolledCourses": [2],
+            "completedCourses": [],
+            "activity": [],
+            "skills": [
+              { "skill": "React", "level": "Intermediate" },
+              { "skill": "Python", "level": "Intermediate" }
+            ]
+          }
+        ],
+        "categories": [
+          {
+            "categoryId": 1,
+            "name": "Web Development",
+            "courses": [1, 2]
+          },
+          {
+            "categoryId": 2,
+            "name": "JavaScript",
+            "courses": [2]
+          }
+        ],
+        "forums": [
+          {
+            "forumId": 1,
+            "title": "JavaScript Discussions",
+            "posts": [
+              {
+                "postId": 101,
+                "userId": 201,
+                "content": "What's the best way to learn asynchronous JavaScript?",
+                "timestamp": "2024-09-20",
+                "comments": [
+                  { "userId": 202, "content": "Practice with real projects!" },
+                  { "userId": 203, "content": "I recommend watching some tutorials." }
+                ]
+              },
+              {
+                "postId": 102,
+                "userId": 203,
+                "content": "Can someone explain closures in simple terms?",
+                "timestamp": "2024-09-22",
+                "comments": []
+              }
+            ]
+          }
+        ]
+          }],
+
+    "chatApp":[
+              {
+                "users": [
+              {
+                "userId": 1,
+                "username": "Alice",
+                "avatar": "https://example.com/avatars/alice.jpg",
+                "status": "online",
+                "contacts": [
+                  { "contactId": 2, "nickname": "Bob" },
+                  { "contactId": 3, "nickname": "Charlie" }
+                ]
+              },
+              {
+                "userId": 2,
+                "username": "Bob",
+                "avatar": "https://example.com/avatars/bob.jpg",
+                "status": "offline",
+                "contacts": [
+                  { "contactId": 1, "nickname": "Alice" },
+                  { "contactId": 3, "nickname": "Charlie" }
+                ]
+              },
+              {
+                "userId": 3,
+                "username": "Charlie",
+                "avatar": "https://example.com/avatars/charlie.jpg",
+                "status": "online",
+                "contacts": [
+                  { "contactId": 1, "nickname": "Alice" },
+                  { "contactId": 2, "nickname": "Bob" }
+                ]
+              }
+            ],
+            "chatRooms": [
+              {
+                "roomId": 101,
+                "roomName": "General Chat",
+                "users": [1, 2, 3],
+                "messages": [
+                  {
+                    "messageId": 1,
+                    "senderId": 1,
+                    "content": "Hello everyone!",
+                    "timestamp": "2023-09-21T10:30:00Z"
+                  },
+                  {
+                    "messageId": 2,
+                    "senderId": 2,
+                    "content": "Hi Alice! How are you?",
+                    "timestamp": "2023-09-21T10:31:00Z"
+                  },
+                  {
+                    "messageId": 3,
+                    "senderId": 3,
+                    "content": "Hey all! What’s up?",
+                    "timestamp": "2023-09-21T10:32:00Z"
+                  }
+                ]
+              },
+              {
+                "roomId": 102,
+                "roomName": "Project Discussion",
+                "users": [1, 2],
+                "messages": [
+                  {
+                    "messageId": 1,
+                    "senderId": 1,
+                    "content": "Have you finished the report?",
+                    "timestamp": "2023-09-21T11:00:00Z"
+                  },
+                  {
+                    "messageId": 2,
+                    "senderId": 2,
+                    "content": "Almost done, just need a bit more time.",
+                    "timestamp": "2023-09-21T11:02:00Z"
+                  }
+                ]
+              }
+            ],
+            "recentChats": [
+              {
+                "chatId": 1,
+                "userId": 2,
+                "lastMessage": "Hi Alice! How are you?",
+                "timestamp": "2023-09-21T10:31:00Z"
+              },
+              {
+                "chatId": 2,
+                "userId": 3,
+                "lastMessage": "Hey all! What’s up?",
+                "timestamp": "2023-09-21T10:32:00Z"
+              },
+              {
+                "chatId": 3,
+                "roomId": 101,
+                "lastMessage": "Hello everyone!",
+                "timestamp": "2023-09-21T10:30:00Z"
+              }
+            ],
+            "notifications": [
+              {
+                "notificationId": 1,
+                "userId": 2,
+                "type": "message",
+                "content": "Bob sent you a message.",
+                "timestamp": "2023-09-21T10:31:00Z",
+                "read": false
+              },
+              {
+                "notificationId": 2,
+                "userId": 3,
+                "type": "join",
+                "content": "Charlie joined the General Chat.",
+                "timestamp": "2023-09-21T10:30:00Z",
+                "read": true
+              }
+            ]
+              }
+              ],
+    "fitnessTracker": {
+                  "workouts": [
+                    {
+                      "workoutId": 1,
+                      "title": "Full Body Workout",
+                      "type": "Strength Training",
+                      "duration": "45 minutes",
+                      "exercises": [
+                        {
+                          "name": "Push-ups",
+                          "sets": 3,
+                          "reps": 15,
+                          "rest": "30 seconds",
+                          "notes": "Keep your body straight."
+                        },
+                        {
+                          "name": "Squats",
+                          "sets": 3,
+                          "reps": 20,
+                          "rest": "30 seconds",
+                          "notes": "Go as low as comfortable."
+                        },
+                        {
+                          "name": "Plank",
+                          "sets": 3,
+                          "duration": "1 minute",
+                          "rest": "30 seconds",
+                          "notes": "Engage your core."
+                        }
+                      ],
+                      "date": "2023-09-15",
+                      "caloriesBurned": 300,
+                      "weather": {
+                        "temperature": "20°C",
+                        "condition": "Clear"
+                      },
+                      "mood": "Motivated"
+                    },
+                    {
+                      "workoutId": 2,
+                      "title": "Cardio Session",
+                      "type": "Cardio",
+                      "duration": "30 minutes",
+                      "exercises": [
+                        {
+                          "name": "Running",
+                          "distance": "5 km",
+                          "pace": "6 min/km",
+                          "heartRate": {
+                            "average": 145,
+                            "max": 160
+                          }
+                        },
+                        {
+                          "name": "Jump Rope",
+                          "duration": "5 minutes",
+                          "heartRate": {
+                            "average": 150,
+                            "max": 165
+                          }
+                        }
+                      ],
+                      "date": "2023-09-16",
+                      "caloriesBurned": 400,
+                      "weather": {
+                        "temperature": "18°C",
+                        "condition": "Cloudy"
+                      },
+                      "mood": "Energized"
+                    },
+                    {
+                      "workoutId": 3,
+                      "title": "Yoga Session",
+                      "type": "Flexibility",
+                      "duration": "60 minutes",
+                      "poses": [
+                        {
+                          "name": "Downward Dog",
+                          "duration": "5 breaths",
+                          "difficulty": "Easy"
+                        },
+                        {
+                          "name": "Warrior II",
+                          "duration": "5 breaths",
+                          "difficulty": "Medium"
+                        },
+                        {
+                          "name": "Tree Pose",
+                          "duration": "5 breaths",
+                          "difficulty": "Hard"
+                        }
+                      ],
+                      "date": "2023-09-17",
+                      "caloriesBurned": 200,
+                      "weather": {
+                        "temperature": "22°C",
+                        "condition": "Sunny"
+                      },
+                      "mood": "Relaxed"
+                    },
+                    {
+                      "workoutId": 4,
+                      "title": "Upper Body Strength",
+                      "type": "Strength Training",
+                      "duration": "40 minutes",
+                      "exercises": [
+                        {
+                          "name": "Bench Press",
+                          "sets": 4,
+                          "reps": 10,
+                          "rest": "1 minute",
+                          "weight": 75,
+                          "notes": "Use a spotter."
+                        },
+                        {
+                          "name": "Dumbbell Rows",
+                          "sets": 3,
+                          "reps": 12,
+                          "rest": "1 minute",
+                          "weight": 25,
+                          "notes": "Keep your back straight."
+                        },
+                        {
+                          "name": "Bicep Curls",
+                          "sets": 3,
+                          "reps": 15,
+                          "rest": "1 minute",
+                          "weight": 15,
+                          "notes": "Don't swing your arms."
+                        }
+                      ],
+                      "date": "2023-09-18",
+                      "caloriesBurned": 350,
+                      "weather": {
+                        "temperature": "19°C",
+                        "condition": "Rainy"
+                      },
+                      "mood": "Focused"
+                    },
+                    {
+                      "workoutId": 5,
+                      "title": "HIIT Workout",
+                      "type": "Interval Training",
+                      "duration": "30 minutes",
+                      "exercises": [
+                        {
+                          "name": "Burpees",
+                          "duration": "30 seconds",
+                          "rest": "15 seconds",
+                          "rounds": 5
+                        },
+                        {
+                          "name": "High Knees",
+                          "duration": "30 seconds",
+                          "rest": "15 seconds",
+                          "rounds": 5
+                        },
+                        {
+                          "name": "Mountain Climbers",
+                          "duration": "30 seconds",
+                          "rest": "15 seconds",
+                          "rounds": 5
+                        }
+                      ],
+                      "date": "2023-09-19",
+                      "caloriesBurned": 500,
+                      "weather": {
+                        "temperature": "21°C",
+                        "condition": "Windy"
+                      },
+                      "mood": "Pumped"
+                    },
+                    {
+                      "workoutId": 6,
+                      "title": "Leg Day",
+                      "type": "Strength Training",
+                      "duration": "50 minutes",
+                      "exercises": [
+                        {
+                          "name": "Deadlifts",
+                          "sets": 4,
+                          "reps": 8,
+                          "rest": "1 minute",
+                          "weight": 100
+                        },
+                        {
+                          "name": "Leg Press",
+                          "sets": 3,
+                          "reps": 12,
+                          "rest": "1 minute",
+                          "weight": 150
+                        },
+                        {
+                          "name": "Calf Raises",
+                          "sets": 4,
+                          "reps": 15,
+                          "rest": "30 seconds",
+                          "weight": 50
+                        }
+                      ],
+                      "date": "2023-09-20",
+                      "caloriesBurned": 450,
+                      "weather": {
+                        "temperature": "23°C",
+                        "condition": "Clear"
+                      },
+                      "mood": "Strong"
+                    },
+                    {
+                      "workoutId": 7,
+                      "title": "Cycling",
+                      "type": "Cardio",
+                      "duration": "60 minutes",
+                      "activities": [
+                        {
+                          "activity": "Outdoor Cycling",
+                          "distance": "20 km",
+                          "averageSpeed": "15 km/h",
+                          "heartRate": {
+                            "average": 140,
+                            "max": 155
+                          }
+                        }
+                      ],
+                      "date": "2023-09-21",
+                      "caloriesBurned": 600,
+                      "weather": {
+                        "temperature": "25°C",
+                        "condition": "Sunny"
+                      },
+                      "mood": "Adventurous"
+                    },
+                    {
+                      "workoutId": 8,
+                      "title": "Dance Class",
+                      "type": "Cardio",
+                      "duration": "45 minutes",
+                      "styles": [
+                        {
+                          "style": "Hip Hop",
+                          "duration": "20 minutes"
+                        },
+                        {
+                          "style": "Salsa",
+                          "duration": "25 minutes"
+                        }
+                      ],
+                      "date": "2023-09-22",
+                      "caloriesBurned": 350,
+                      "weather": {
+                        "temperature": "24°C",
+                        "condition": "Partly Cloudy"
+                      },
+                      "mood": "Fun"
+                    },
+                    {
+                      "workoutId": 9,
+                      "title": "Swimming",
+                      "type": "Cardio",
+                      "duration": "30 minutes",
+                      "strokes": [
+                        {
+                          "stroke": "Freestyle",
+                          "laps": 10
+                        },
+                        {
+                          "stroke": "Backstroke",
+                          "laps": 5
+                        }
+                      ],
+                      "date": "2023-09-23",
+                      "caloriesBurned": 300,
+                      "weather": {
+                        "temperature": "26°C",
+                        "condition": "Clear"
+                      },
+                      "mood": "Refreshing"
+                    },
+                    {
+                      "workoutId": 10,
+                      "title": "Stretching Routine",
+                      "type": "Flexibility",
+                      "duration": "20 minutes",
+                      "stretches": [
+                        {
+                          "name": "Hamstring Stretch",
+                          "duration": "2 minutes"
+                        },
+                        {
+                          "name": "Quadriceps Stretch",
+                          "duration": "2 minutes"
+                        },
+                        {
+                          "name": "Shoulder Stretch",
+                          "duration": "2 minutes"
+                        }
+                      ],
+                      "date": "2023-09-24",
+                      "caloriesBurned": 100,
+                      "weather": {
+                        "temperature": "22°C",
+                        "condition": "Misty"
+                      },
+                      "mood": "Calm"
+                    }
+                  ],
+                  "userStats": {
+                    "name": "John Doe",
+                    "age": 28,
+                    "height": "180 cm",
+                    "weight": "75 kg",
+                    "goals": [
+                      {
+                        "goal": "Lose weight",
+                        "target": "5 kg",
+                        "deadline": "2023-12-31"
+                      },
+                      {
+                        "goal": "Run a 10K",
+                        "target": "Achieve in under 50 minutes",
+                        "deadline": "2023-10-15"
+                      },
+                      {
+                        "goal": "Improve flexibility",
+                        "target": "Achieve full splits",
+                        "deadline": "2024-01-15"
+                      }
+                    ],
+                    "progress": {
+                      "startDate": "2023-08-01",
+                      "currentWeight": "76 kg",
+                      "weightChange": "-1 kg",
+                      "workoutsCompleted": 25,
+                      "caloriesBurnedTotal": 2500
+                    }
+                  }
+                },
+    "recipeFinder": {
+                      "recipes": [
+                        {
+                          "recipeId": 1,
+                          "title": "Spaghetti Carbonara",
+                          "cuisine": "Italian",
+                          "ingredients": [
+                            { "name": "Spaghetti", "quantity": "200g" },
+                            { "name": "Eggs", "quantity": "2" },
+                            { "name": "Parmesan cheese", "quantity": "50g" },
+                            { "name": "Pancetta", "quantity": "100g" },
+                            { "name": "Black pepper", "quantity": "to taste" }
+                          ],
+                          "instructions": [
+                            "Cook the spaghetti according to package instructions.",
+                            "In a bowl, whisk the eggs and mix in the grated Parmesan cheese.",
+                            "In a pan, cook the pancetta until crispy.",
+                            "Combine the hot spaghetti with pancetta, then quickly mix in the egg mixture.",
+                            "Serve with black pepper on top."
+                          ],
+                          "preparationTime": "20 minutes",
+                          "servings": 2,
+                          "nutrition": {
+                            "calories": 600,
+                            "protein": "25g",
+                            "fat": "30g",
+                            "carbs": "70g"
+                          },
+                          "tags": ["Pasta", "Quick", "Dinner"]
+                        },
+                        {
+                          "recipeId": 2,
+                          "title": "Chicken Tikka Masala",
+                          "cuisine": "Indian",
+                          "ingredients": [
+                            { "name": "Chicken breast", "quantity": "500g" },
+                            { "name": "Yogurt", "quantity": "200g" },
+                            { "name": "Tomato puree", "quantity": "150g" },
+                            { "name": "Onion", "quantity": "1, chopped" },
+                            { "name": "Garlic", "quantity": "2 cloves, minced" },
+                            { "name": "Ginger", "quantity": "1 inch, grated" },
+                            { "name": "Spices", "quantity": "to taste" }
+                          ],
+                          "instructions": [
+                            "Marinate chicken in yogurt and spices for at least 1 hour.",
+                            "Cook onions, garlic, and ginger in a pan until soft.",
+                            "Add marinated chicken and cook until browned.",
+                            "Stir in tomato puree and simmer until chicken is cooked through.",
+                            "Serve with rice or naan."
+                          ],
+                          "preparationTime": "1 hour 30 minutes",
+                          "servings": 4,
+                          "nutrition": {
+                            "calories": 500,
+                            "protein": "40g",
+                            "fat": "20g",
+                            "carbs": "45g"
+                          },
+                          "tags": ["Curry", "Spicy", "Main Course"]
+                        },
+                        {
+                          "recipeId": 3,
+                          "title": "Vegetable Stir-Fry",
+                          "cuisine": "Asian",
+                          "ingredients": [
+                            { "name": "Mixed vegetables", "quantity": "300g" },
+                            { "name": "Soy sauce", "quantity": "2 tablespoons" },
+                            { "name": "Garlic", "quantity": "2 cloves, minced" },
+                            { "name": "Ginger", "quantity": "1 inch, grated" },
+                            { "name": "Sesame oil", "quantity": "1 tablespoon" },
+                            { "name": "Rice", "quantity": "200g" }
+                          ],
+                          "instructions": [
+                            "Cook rice according to package instructions.",
+                            "In a pan, heat sesame oil and add garlic and ginger.",
+                            "Add mixed vegetables and stir-fry until tender.",
+                            "Pour in soy sauce and mix well.",
+                            "Serve hot over rice."
+                          ],
+                          "preparationTime": "15 minutes",
+                          "servings": 2,
+                          "nutrition": {
+                            "calories": 300,
+                            "protein": "10g",
+                            "fat": "15g",
+                            "carbs": "40g"
+                          },
+                          "tags": ["Vegan", "Quick", "Healthy"]
+                        },
+                        {
+                          "recipeId": 4,
+                          "title": "Chocolate Chip Cookies",
+                          "cuisine": "American",
+                          "ingredients": [
+                            { "name": "Butter", "quantity": "100g" },
+                            { "name": "Sugar", "quantity": "150g" },
+                            { "name": "Brown sugar", "quantity": "100g" },
+                            { "name": "Eggs", "quantity": "1" },
+                            { "name": "Vanilla extract", "quantity": "1 teaspoon" },
+                            { "name": "Flour", "quantity": "200g" },
+                            { "name": "Chocolate chips", "quantity": "100g" },
+                            { "name": "Baking soda", "quantity": "1 teaspoon" },
+                            { "name": "Salt", "quantity": "a pinch" }
+                          ],
+                          "instructions": [
+                            "Preheat the oven to 180°C (350°F).",
+                            "Cream together butter, sugar, and brown sugar.",
+                            "Add the egg and vanilla extract, mixing well.",
+                            "Stir in flour, baking soda, and salt.",
+                            "Fold in chocolate chips.",
+                            "Scoop onto baking sheets and bake for 10-12 minutes."
+                          ],
+                          "preparationTime": "30 minutes",
+                          "servings": 12,
+                          "nutrition": {
+                            "calories": 150,
+                            "protein": "2g",
+                            "fat": "7g",
+                            "carbs": "22g"
+                          },
+                          "tags": ["Dessert", "Baking", "Sweet"]
+                        },
+                        {
+                          "recipeId": 5,
+                          "title": "Caprese Salad",
+                          "cuisine": "Italian",
+                          "ingredients": [
+                            { "name": "Tomatoes", "quantity": "2, sliced" },
+                            { "name": "Mozzarella cheese", "quantity": "200g, sliced" },
+                            { "name": "Fresh basil", "quantity": "a handful" },
+                            { "name": "Olive oil", "quantity": "2 tablespoons" },
+                            { "name": "Balsamic vinegar", "quantity": "1 tablespoon" },
+                            { "name": "Salt", "quantity": "to taste" },
+                            { "name": "Pepper", "quantity": "to taste" }
+                          ],
+                          "instructions": [
+                            "Layer sliced tomatoes and mozzarella cheese on a plate.",
+                            "Tuck in fresh basil leaves.",
+                            "Drizzle with olive oil and balsamic vinegar.",
+                            "Season with salt and pepper."
+                          ],
+                          "preparationTime": "10 minutes",
+                          "servings": 2,
+                          "nutrition": {
+                            "calories": 250,
+                            "protein": "12g",
+                            "fat": "20g",
+                            "carbs": "8g"
+                          },
+                          "tags": ["Salad", "Fresh", "Appetizer"]
+                        }
+                      ]
+                    },
+    "eventBookingSystem": {
+                          "events": [
+                            {
+                              "eventId": 1,
+                              "title": "Tech Conference 2024",
+                              "date": "2024-05-15",
+                              "location": "San Francisco, CA",
+                              "details": {
+                                "description": "A conference for tech enthusiasts to learn and network.",
+                                "duration": "2 days",
+                                "organizer": {
+                                  "name": "Tech Innovators",
+                                  "contact": {
+                                    "email": "contact@techinnovators.com",
+                                    "phone": "+1 (555) 123-4567"
+                                  }
+                                }
+                              },
+                              "tickets": [
+                                {
+                                  "ticketId": 101,
+                                  "type": "Early Bird",
+                                  "price": 199.99,
+                                  "quantityAvailable": 100,
+                                  "benefits": [
+                                    "Access to all sessions",
+                                    "Lunch included",
+                                    "Networking opportunities"
+                                  ]
+                                },
+                                {
+                                  "ticketId": 102,
+                                  "type": "Regular",
+                                  "price": 299.99,
+                                  "quantityAvailable": 200,
+                                  "benefits": [
+                                    "Access to all sessions",
+                                    "Lunch included"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "eventId": 2,
+                              "title": "Music Festival 2024",
+                              "date": "2024-06-10",
+                              "location": "Los Angeles, CA",
+                              "details": {
+                                "description": "An annual music festival featuring various artists.",
+                                "duration": "3 days",
+                                "organizer": {
+                                  "name": "Live Events Co.",
+                                  "contact": {
+                                    "email": "info@liveevents.com",
+                                    "phone": "+1 (555) 987-6543"
+                                  }
+                                }
+                              },
+                              "tickets": [
+                                {
+                                  "ticketId": 201,
+                                  "type": "General Admission",
+                                  "price": 129.99,
+                                  "quantityAvailable": 500,
+                                  "benefits": [
+                                    "Access to main stage",
+                                    "Free merchandise"
+                                  ]
+                                },
+                                {
+                                  "ticketId": 202,
+                                  "type": "VIP Pass",
+                                  "price": 399.99,
+                                  "quantityAvailable": 50,
+                                  "benefits": [
+                                    "Front row access",
+                                    "Exclusive lounge area",
+                                    "Meet and greet with artists"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "eventId": 3,
+                              "title": "Art Expo 2024",
+                              "date": "2024-07-20",
+                              "location": "New York, NY",
+                              "details": {
+                                "description": "An exhibition showcasing local and international artists.",
+                                "duration": "1 week",
+                                "organizer": {
+                                  "name": "Art World",
+                                  "contact": {
+                                    "email": "contact@artworld.com",
+                                    "phone": "+1 (555) 321-0987"
+                                  }
+                                }
+                              },
+                              "tickets": [
+                                {
+                                  "ticketId": 301,
+                                  "type": "Standard",
+                                  "price": 49.99,
+                                  "quantityAvailable": 300,
+                                  "benefits": [
+                                    "Access to the exhibition",
+                                    "Complimentary guide"
+                                  ]
+                                },
+                                {
+                                  "ticketId": 302,
+                                  "type": "Family Package",
+                                  "price": 129.99,
+                                  "quantityAvailable": 100,
+                                  "benefits": [
+                                    "Access for 4 people",
+                                    "Family-friendly activities"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "eventId": 4,
+                              "title": "Cooking Workshop",
+                              "date": "2024-08-15",
+                              "location": "Chicago, IL",
+                              "details": {
+                                "description": "A hands-on cooking workshop with professional chefs.",
+                                "duration": "Half-day",
+                                "organizer": {
+                                  "name": "Culinary Arts Institute",
+                                  "contact": {
+                                    "email": "workshops@culinaryarts.com",
+                                    "phone": "+1 (555) 654-3210"
+                                  }
+                                }
+                              },
+                              "tickets": [
+                                {
+                                  "ticketId": 401,
+                                  "type": "Individual",
+                                  "price": 79.99,
+                                  "quantityAvailable": 50,
+                                  "benefits": [
+                                    "Hands-on cooking experience",
+                                    "Take-home recipes"
+                                  ]
+                                },
+                                {
+                                  "ticketId": 402,
+                                  "type": "Group (4)",
+                                  "price": 299.99,
+                                  "quantityAvailable": 20,
+                                  "benefits": [
+                                    "Cooking experience for 4",
+                                    "Group recipes"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "eventId": 5,
+                              "title": "Yoga Retreat",
+                              "date": "2024-09-10",
+                              "location": "Sedona, AZ",
+                              "details": {
+                                "description": "A relaxing retreat focused on yoga and wellness.",
+                                "duration": "Weekend",
+                                "organizer": {
+                                  "name": "Wellness Retreats",
+                                  "contact": {
+                                    "email": "info@wellnessretreats.com",
+                                    "phone": "+1 (555) 543-2109"
+                                  }
+                                }
+                              },
+                              "tickets": [
+                                {
+                                  "ticketId": 501,
+                                  "type": "Standard",
+                                  "price": 299.99,
+                                  "quantityAvailable": 30,
+                                  "benefits": [
+                                    "All yoga sessions",
+                                    "Meals included",
+                                    "Accommodation"
+                                  ]
+                                },
+                                {
+                                  "ticketId": 502,
+                                  "type": "Deluxe",
+                                  "price": 499.99,
+                                  "quantityAvailable": 10,
+                                  "benefits": [
+                                    "Private accommodation",
+                                    "Personal yoga instructor",
+                                    "Spa treatment"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }                 
+  }
+  
