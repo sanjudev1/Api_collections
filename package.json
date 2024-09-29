@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx json-server --watch collections.json --port 9001"
+    "start": "npx json-server --watch collections.json --port 9001",
+    "install": "npm install json-server"
   },
   "keywords": [],
   "author": "",
